@@ -13,11 +13,11 @@ out the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit/blo
 This has introductory information about the BIDS specification, tools in
 the BIDS ecosystem, and how you can get involved.
 
-### The BIDS Contributor guide
+### Contributing to BIDS
 
 If you'd like to get involved more heavily in helping extend the BIDS
-specification or develop tools for it, see the [BIDS Contributor Guide](https://docs.google.com/document/d/1pWmEEY-1-WuwBPNy5tDAxVJYQ9Een4hZJM06tQZg8X4/edit?usp%3Dsharing&sa=D&ust=1537468908724000).
-It contains more in-depth information for getting involved with the BIDS
+specification or develop tools for it, see [Contributing to the BIDS Specification](https://github.com/bids-standard/bids-specification/blob/master/CONTRIBUTING.md).
+This has more in-depth information for getting involved with the BIDS
 community.
 
 ## BIDS Extension Proposals
